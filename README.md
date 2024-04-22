@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paakwesi Ephraim
 - 👀 I’m interested in Technology
-- 🌱 I’m currently React Redux
+- 🌱 Am currently learning TypeScript
 - 💞️ I’m looking to collaborate on Responsive Web sites building
 - 📫 Contact me : ephraimpaakwesi@gmail.com
 - ⚡ Fun fact: Imagination that is your creation
